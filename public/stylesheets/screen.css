@@ -1,0 +1,21 @@
+body {
+	padding: 50px;
+	padding-top:10px;
+	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+	color: #00B7FF;
+}
+
+.title {
+	color: #AA4400;
+}
+
+.subtitle {
+	color: #AA4400;
+}
+
+.evidence {
+	color: #AA4400;
+}
